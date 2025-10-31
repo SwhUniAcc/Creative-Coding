@@ -9,7 +9,6 @@ function draw() {
     {
       for (let y = 50; y < height; y = y + 100)
     {
-        // herringBone(x,y,50);
 
       fill(0, random(21, 71), random(121, 171));
         noStroke();
