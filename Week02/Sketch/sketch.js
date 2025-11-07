@@ -46,6 +46,10 @@ function draw() {
     fill(0);
     ellipse(300, 360, 21, 20);
 
+// Eyebrow L
+    fill(50, 25, 0);
+    rect(260, 325, 75, 10, 5);
+
 // Eye R
     fill(255);
     ellipse(425, 360, 70, 30);
@@ -58,16 +62,20 @@ function draw() {
     fill(0);
     ellipse(425, 360, 21, 20);
 
+ // Eyebrow R
+    fill(50, 25, 0);
+    rect(390, 325, 75, 10, 5);
+
 // Hair Mid
-    fill(28, 23, 19);
+    fill(50, 25, 0);
     rect(170, 180, 380, 75, 20);
 
  // Hair L
-    fill(28, 23, 19);
+    fill(50, 25, 0);
     rect(170, 225, 75, 275, 20);
 
 // Hair R
-    fill(28, 23, 19);
+    fill(50, 25, 0);
     rect(475, 225, 75, 275, 20);
 
 // Mouth
