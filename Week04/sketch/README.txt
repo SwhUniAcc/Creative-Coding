@@ -1,0 +1,1 @@
+Press "1", "2", and "3" to switch between screens.
